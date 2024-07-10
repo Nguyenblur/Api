@@ -1,0 +1,25 @@
+{
+  "cookie": "ps_n=1;ps_l=1;datr=WHF5ZgAsJB6T-rgqsXxBq50C;sb=WHF5ZkemSGoYUjK6eljzDEBD;fr=0jkiMV45PUBOGEbyX.AWUg9JOCW-U5qmad_iDjMCqH11Y.BmeXFY..AAA.0.0.BmerFA.AWW1gsd36dY;c_user=100063804937178;xs=24%3Ai1L2WdNtpNw39A%3A2%3A1719316800%3A-1%3A15189;m_page_voice=100063804937178;m_pixel_ratio=2;wd=360x566;x-referer=eyJyIjoiLyIsImgiOiIvIiwicyI6Im0ifQ%3D%3D;i_user=61560332221288;locale=en_US;fbl_st=100629474%3BT%3A28669297;wl_cbv=v2%3Bclient_version%3A2551%3Btimestamp%3A1720157825;vpd=v1%3B567x360x2;",
+  "token": "EAAD6V7os0gcBOyrpXIcK2xcdZB35lz5o3ZCnj2V3VpzNsCuGvpwmVcNhAZACIAltrmzd1b3qp7rJSQTRY91Uxi7QCQMcIgZAGNyiieHXNlHioXNX0JaewYaqnqMbZCzLSaF2iB7E6OnATAdBRP9dc6cMHHt9MvElIe8EZCcA37ZChJOZANsf7SP9sIpIqoJZCns3ehgZDZD",
+  "api": "http://13.215.163.128",
+    "_": "Proxy settings",
+    "proxy": {
+    "_": "Use proxy (Viewbot works without proxies)",
+    "_": "true or false",
+        "use-proxy": false,
+    
+    "_": "Proxy type",
+    "_": "socks5 or http",
+        "proxy-type": "http",
+    
+    "_": "Proxy user:pass auth",
+    "_": "true or false",
+    "_": "Credential format is USER:PASS",
+        "auth": false,
+        "credential": "",
+    
+    "_": "Proxy Scrape",
+    "_": "true or false",
+        "proxyscrape": false
+    }
+}
